@@ -1,4 +1,14 @@
-## Hi there 👋
+## Welcome to my repos! 👐
+
+My name is Luís Pires. I'm very pleased to meet you!
+🇵🇹 I am portuguese and I was born in 1995.
+
+🐱🐶 I am a veterinarian, but...
+I am currently full-time invested in IT. 💻🖱️
+
+Feel free to take a look around my repositories and reach out if needed. ✌
+
+📬 Contact me: joseluiscpires@gmail.com
 
 <!--
 **Luis-Pires/Luis-Pires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
