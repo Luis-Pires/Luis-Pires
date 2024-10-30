@@ -20,8 +20,8 @@ My journey so far:
 - [x] Udemy HTML course
 - [x] Udemy CSS course
 - [x] Udemy Bootstrap course
-- [x] Udemy JavaScript course (ongoing...)
-- [ ] UPskill requalification course
+- [x] Udemy JavaScript course 
+- [ ] UPskill requalification course (*in progress...*)
 - [ ] UPskill requalification internship
 - [ ] First job
 
