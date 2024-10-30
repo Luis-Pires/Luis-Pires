@@ -4,13 +4,15 @@ My name is Luís Pires. I'm very pleased to meet you!
 🇵🇹 I am portuguese and I was born in 1995.
 
 🐱🐶 I have a mastes degree in veterinarian medicine. I have always felt a strong connection and care for animals.
-
+\
+&nbsp;
 
 > **Jane Goodall**
 >
->> *“The least I can do is speak out for those who cannot speak for themselves.”*
+>> *“The least I can do is speak out for those who cannot speak for themselves.”*  
 
-
+\
+&nbsp;
 Only recently I have changed the direction of my career. 
 I am currently full-time invested in IT. 💻🖱️
 
