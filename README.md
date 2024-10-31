@@ -18,7 +18,7 @@ Only recently I have changed the direction of my career.
 I am currently full-time invested in IT. 💻🖱️
 
 My journey so far:
-* ***[Udemy](https://www.udemy.com/)*** course
+* ***[Ûdemy](https://www.udemy.com/)*** course
 - [x] HTML
 - [x] CSS
 - [x] Bootstrap
